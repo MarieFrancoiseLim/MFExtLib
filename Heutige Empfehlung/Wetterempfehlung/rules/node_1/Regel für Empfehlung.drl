@@ -6,5 +6,5 @@
   <definition><![CDATA[wenn
 	Person ist definiert
 dann
-	setze Entscheidung auf  die Anrede von Person in Großbuchstaben + " " + der Initialen von Person  + "! "  + Wetterempfehlung ;]]></definition>
+	setze Entscheidung auf  die Anrede von Person in Großbuchstaben + " " + die Initialen von Person  + "! "  + Wetterempfehlung ;]]></definition>
 </ilog.rules.studio.model.brl:ActionRule>

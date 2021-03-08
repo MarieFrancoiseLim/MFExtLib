@@ -9,7 +9,7 @@
   </paths>
   <paths xsi:type="ilog.rules.studio.model.bom:BOMPath" pathID="BOM">
     <entries xsi:type="ilog.rules.studio.model.bom:BOMEntry" name="model" url="platform:/Daten/bom/model.bom"/>
-    <entries xsi:type="ilog.rules.studio.model.bom:DecisionLibraryBOMEntry" name="ads.samples:adsSampleLibrary#1.mf" packageId="ads.samples:adsSampleLibrary" version="1.mf"/>
+    <entries xsi:type="ilog.rules.studio.model.bom:DecisionLibraryBOMEntry" name="ads.samples:adsSampleLibrary#1.mf1" packageId="ads.samples:adsSampleLibrary" version="1.mf1"/>
   </paths>
   <modelFolders xsi:type="ilog.rules.studio.model.base:SourceFolder">
     <name>rules</name>

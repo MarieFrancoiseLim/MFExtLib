@@ -34,7 +34,7 @@
             <groupId>ads.samples</groupId>
             <artifactId>adsSampleLibrary</artifactId>
             <type>decision-library</type>
-            <version>1.mf</version>
+            <version>1.mf1</version>
         </dependency>
     </dependencies>
 </project>
