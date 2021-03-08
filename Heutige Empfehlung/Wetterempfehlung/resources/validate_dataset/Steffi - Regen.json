@@ -1,0 +1,10 @@
+{
+  "person": {
+    "country": "FRANCE",
+    "inputName": "Steffi Dupond"
+  },
+  "wetter": {
+    "Regenvorhersage": 90,
+    "Temperatur": "kalt"
+  }
+}

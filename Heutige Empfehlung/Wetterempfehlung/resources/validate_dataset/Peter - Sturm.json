@@ -1,0 +1,11 @@
+{
+  "person": {
+    "country": "US",
+    "inputName": "Peter Schmidt"
+  },
+  "wetter": {
+    "Regenvorhersage": 100,
+    "Temperatur": "kalt",
+    "Sturmalarm": true
+  }
+}

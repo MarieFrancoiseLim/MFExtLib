@@ -1,0 +1,11 @@
+{
+  "person": {
+    "inputName": "Anna Weber",
+    "country": "FRANCE"
+  },
+  "wetter": {
+    "Regenvorhersage": 10,
+    "Temperatur": "kalt",
+    "Sturmalarm": false
+  }
+}
