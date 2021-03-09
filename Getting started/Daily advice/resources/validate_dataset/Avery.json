@@ -1,0 +1,11 @@
+{
+  "person": {
+    "country": "FRANCE",
+    "inputName": "Dominique Dupond"
+  },
+  "weather": {
+    "temperature": "cold",
+    "rainForecast": 10,
+    "stormAlert": false
+  }
+}

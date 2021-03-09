@@ -1,0 +1,11 @@
+{
+  "person": {
+    "country": "US",
+    "inputName": "Jamie Jumper"
+  },
+  "weather": {
+    "temperature": "cold",
+    "rainForecast": 100,
+    "stormAlert": true
+  }
+}
